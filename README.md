@@ -16,4 +16,4 @@ vercel.json   ← static deploy config (no build step)
 ```
 
 ## Deploy
-Connect Vercel in XROGA — auto-deploys to **your** Vercel account on build complete.
+Connect Vercel in XROGA — deploys to **your** Vercel account and domain.
